@@ -1,4 +1,4 @@
-<h3 align="left"># 👩‍💻Judyson Justino <br><br>## About Me<br>I am currently pursuing a degree in **Science and Technology**, with a focus on **Computer Technology**.  <br>I have experience in backend development, API design, and containerized applications, and I enjoy building practical solutions with clean and maintainable code.</h3>
+<h3 align="left"># 👩‍💻 Judyson Justino <br><br>## About Me<br>I am currently pursuing a degree in **Computer Engineering**. <br>I have experience in backend development, API design, and containerized applications, and I enjoy building practical solutions with clean and maintainable code.</h3>
 
 ###
 
@@ -58,5 +58,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Judysonandrade/Judysonandrade/output/snake.svg" alt="Snake animation" />
-
-###
