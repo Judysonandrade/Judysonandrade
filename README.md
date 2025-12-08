@@ -51,4 +51,4 @@ I have experience in backend development, API design, and containerized applicat
 
 <br clear="both">
 
-![Snake Animation](https://raw.githubusercontent.com/Judysonandrade/Judysonandrade/output/snake.svg)
+![Snake Animation](https://github.com/Judysonandrade/Judysonandrade/blob/output/snake.svg)
